@@ -1,0 +1,8 @@
+D:\C#\HEAT\HEAT\bin\Debug\HEAT.exe
+D:\C#\HEAT\HEAT\bin\Debug\HEAT.pdb
+D:\C#\HEAT\HEAT\obj\x86\Debug\HEAT.frmHeat.resources
+D:\C#\HEAT\HEAT\obj\x86\Debug\HEAT.Properties.Resources.resources
+D:\C#\HEAT\HEAT\obj\x86\Debug\HEAT.csproj.GenerateResource.Cache
+D:\C#\HEAT\HEAT\obj\x86\Debug\HEAT.exe
+D:\C#\HEAT\HEAT\obj\x86\Debug\HEAT.pdb
+D:\C#\HEAT\HEAT\obj\x86\Debug\HEAT.csprojResolveAssemblyReference.cache
